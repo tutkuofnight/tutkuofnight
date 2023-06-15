@@ -1,6 +1,6 @@
 **tutku@dev:~$** whoami
 - 🔭 I’m currently working at [eQuota](https://equota.de) as Frontend Developer
-- 📫 How to reach me: [t.ucan@equota.de](mailto:t.ucan@equota.de)
+- 📫 How to reach me: [linkedin/tutkuucan](https://www.linkedin.com/in/tutkuucan/)
 
 **🛠 Tech Stack**
 
