@@ -1,5 +1,5 @@
 **tutku@dev:~$** whoami
-- 🔭 I’m currently working at [eQuota](https://equota.de) as Frontend Developer
+- 🔭 I’m currently developer of [Pixelart API](https://github.com/tutkuofnight/pixelart-api) and [Frontend](https://github.com/tutkuofnight/pixelartist)
 - 📫 How to reach me: [linkedin/tutkuucan](https://www.linkedin.com/in/tutkuucan/)
 
 **🛠 Tech Stack**
