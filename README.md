@@ -1,5 +1,5 @@
 **tutku@dev:~$** whoami
-- 🔭 I’m currently developer of [Pixelist API](https://github.com/tutkuofnight/pixelist-api) and [Fitness Program Creator](https://github.com/tutkuofnight/fitness-program-creator)
+- 🔭 I’m currently developer of [Pixelist API](https://github.com/tutkuofnight/pixelist-api) and [FitProgram](https://github.com/tutkuofnight/fitprogram)
 - 📫 How to reach me: [linkedin/tutkuucan](https://www.linkedin.com/in/tutkuucan/)
 
 **🛠 Tech Stack**
