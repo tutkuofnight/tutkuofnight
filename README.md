@@ -1,5 +1,5 @@
 **tutku@dev:~$** whoami
-- 🔭 I’m currently working as Frontend Developer at [Carbon Interaktif](https://www.carboninteraktif.com)
+- 🔭 I’m currently working as Frontend Developer at [Carbon](https://www.carboninteraktif.com)
 - 🛠️ My projects: [FitProgram](https://www.github.com/tutkuofnight/fitprogram) , [Pixelist](https://www.github.com/tutkuofnight/pixelist)
 - 📫 How to reach me: [linkedin/tutkuucan](https://www.linkedin.com/in/tutkuucan/)
 
