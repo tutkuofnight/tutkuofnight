@@ -5,4 +5,4 @@
 
 **🛠 Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,sass,react,vue,nodejs,express,nuxtjs,mongodb,pug)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,html,css,sass,react,vue,nodejs,express,nuxtjs,mongodb,pug)](https://skillicons.dev)
