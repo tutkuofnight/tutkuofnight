@@ -1,5 +1,5 @@
 **tutku@dev:~$** whoami
-- 🔭 I’m currently working on my products
+- 🔭 I’m currently working on my own product apps
 - 🛠️ My projects: [FitProgram](https://www.github.com/tutkuofnight/fitprogram) , [Pixelist](https://www.github.com/tutkuofnight/pixelist)
 - 📫 How to reach me: [linkedin/tutkuucan](https://www.linkedin.com/in/tutkuucan/)
 
