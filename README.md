@@ -1,6 +1,6 @@
 **tutku@dev:~$** whoami
 - 🔭 I’m currently working on my own product apps
-- 🛠️ My projects: [FitProgram](https://www.github.com/tutkuofnight/fitprogram) , [Pixelist](https://www.github.com/tutkuofnight/pixelist)
+- 🛠️ My projects: [My Way To Go](https://www.github.com/tutkuofnight/way-to-go) , [Chat App Client](https://www.github.com/tutkuofnight/chat-client)
 - 📫 How to reach me: [linkedin/tutkuucan](https://www.linkedin.com/in/tutkuucan/)
 
 **🛠 Tech Stack**
