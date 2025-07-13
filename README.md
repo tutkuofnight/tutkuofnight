@@ -1,9 +1,11 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tutkuofnight)
+
 **tutku@dev:~$** whoami 
+
 - 🔭 I’m currently working at Notus Labs as Frontend Developer
 - 🛠️ My projects: [derdo](https://github.com/tutkuofnight/derdo) , [way-to-go](https://www.github.com/tutkuofnight/way-to-go) , [chat-client](https://www.github.com/tutkuofnight/chat-client)
 - 📫 How to reach me: [linkedin/tutkuucan](https://www.linkedin.com/in/tutkuucan/)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tutkuofnight)
 
 **🛠 Tech Stack**
 
