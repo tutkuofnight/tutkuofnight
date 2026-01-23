@@ -2,7 +2,7 @@
 
 **tutku@dev:~$** whoami 
 
-- 🔭 I’m currently working at [Archi's Academy](https://archisacademy.com) as Frontend Development Instructor
+- 🔭 I’m currently working at [Archi's Academy](https://archisacademy.com) as Software Instructor
 - 🛠️ My projects: [derdo](https://github.com/tutkuofnight/derdo), [Schema Lens](https://www.github.com/tutkuofnight/schema-lens)
 - 📫 How to reach me: [linkedin/tutkuucan](https://www.linkedin.com/in/tutkuucan/)
 
